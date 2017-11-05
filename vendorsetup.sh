@@ -1,1 +1,1 @@
-add combo aosp_ghost-userdebug
+add_lunch_combo aosp_ghost-userdebug
