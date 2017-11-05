@@ -14,5 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_ghost.mk
+    $(LOCAL_DIR)/full_ghost.mk \
     $(LOCAL_DIR)/aosp_ghost.mk
